@@ -1,5 +1,5 @@
-# Demo
-basics of programming
-A directory to recall the content learn on programming
+ITS AN INITIAL STAGE 
 
-MOTTO is to get placement in product based companies as an software developer.
+LANGUAGES: C/JAVA
+
+MOTTO TO GET PLACEMENT IN PRODUCT BASED COMPANIES AS AN SOFTWARE DEVELOPER.
