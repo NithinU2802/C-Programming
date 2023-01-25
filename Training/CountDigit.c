@@ -1,6 +1,6 @@
 /******************************************************************************
 
-print largest number among three numbers.
+Count digits in the given number.
 
 Input: 123457
 output: 6
